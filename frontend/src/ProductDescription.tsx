@@ -4,7 +4,7 @@ import Footer from './Footer';
 import MessageModal from './MessageModal';
 import './tokens.css';
 import './index.css';
-import './app.css';
+
 
 function ProductDescription() {
   const { id } = useParams(); 

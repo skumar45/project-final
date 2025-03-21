@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Footer from './Footer';
 import './tokens.css';
 import './index.css';
-import './app.css';
+
 
 interface Product {
   id: number;

@@ -1,7 +1,7 @@
 import React from 'react';
 import './tokens.css';
 import './index.css';
-import './app.css'
+
 
 function Footer() {
   return (

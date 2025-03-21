@@ -1,7 +1,7 @@
 import React, { useRef, useState, ReactNode } from 'react';
 import './tokens.css';
 import './index.css';
-import './app.css';
+
 
 interface ModalProps {
     headerLabel: string;

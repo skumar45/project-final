@@ -1,7 +1,6 @@
 import React from 'react';
 import './tokens.css';
 import './index.css';
-import './app.css';
 import { Link } from 'react-router-dom';
 
 interface HeaderProps {

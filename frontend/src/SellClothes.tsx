@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Footer from './Footer';
 import './tokens.css';
 import './index.css';
-import './app.css';
 import { Spinner } from "./Spinner"; 
 
 interface Product {
